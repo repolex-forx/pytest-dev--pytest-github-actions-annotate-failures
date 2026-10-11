@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-github-actions-annotate-failures",
+  "versions": [
+    {
+      "commit": "1b57c457c2becd9c4f1fd536e282e28cbb73fa74",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:16:35.529404+00:00"
+    }
+  ]
+}
