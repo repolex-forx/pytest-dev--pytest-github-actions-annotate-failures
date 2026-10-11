@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-github-actions-annotate-failures/commit/1b57c457c2becd9c4f1fd536e282e28cbb73fa74",
       "git:hexsha": "1b57c457c2becd9c4f1fd536e282e28cbb73fa74",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T02:16:35.528882+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-github-actions-annotate-failures/commit/02d2f2e9b8aa6ae0fccb67c5f763e76b26b8be4d",
