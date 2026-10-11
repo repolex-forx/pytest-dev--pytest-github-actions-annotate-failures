@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-github-actions-annotate-failures",
+  "versions": [
+    {
+      "commit": "1b57c457c2becd9c4f1fd536e282e28cbb73fa74",
+      "parsed_at": "2026-10-11T02:14:59.279604+00:00",
+      "filetree": "filetree/1b57c457c2becd9c4f1fd536e282e28cbb73fa74.nq.gz",
+      "blobs": [
+        "blob/8558c3d4451a968291c979901fefa0c3a6a2817c.nq.gz",
+        "blob/9d03932a46c6ac27f3eb0b510b0ff893ee597934.nq.gz",
+        "blob/4f0650b48c8d675437f2e3e9b2f25cb837378ae1.nq.gz",
+        "blob/977d8303dfb487e61089f374dc6e1f5bd12bb695.nq.gz",
+        "blob/5e000b852adcb9e3c1e0f6d9199b4d5509269808.nq.gz",
+        "blob/e3e0207a2f8cf9534693607a8624b4d715872dcb.nq.gz",
+        "blob/7796577130896485f3507b148a241ee3788cefa1.nq.gz",
+        "blob/71eea8557c447fb89c68b9cafb552248343cbb00.nq.gz",
+        "blob/cca65d36f1b91a0946cb5962d0f61ccb15d7b93a.nq.gz",
+        "blob/e8bbab442c5d0a5a74099a0aa257e1a565c7c1e0.nq.gz",
+        "blob/3abcef7111f70fb1c89080b1f711be10776c69e0.nq.gz",
+        "blob/42e6b8f63347870a627af2c906b202eae51ebad2.nq.gz",
+        "blob/089091f0ecd122333ef243feb836e3e15f94c88a.nq.gz",
+        "blob/7c860226ceaf09d9cf64eda14087ed539454d5a2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/90aba4578079628a895e8eeb453716f08e476386.nq.gz",
+        "blob/58e0337e8218a1d79644c30af59cfaf5119c2466.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
